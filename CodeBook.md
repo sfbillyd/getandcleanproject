@@ -1,29 +1,34 @@
 DATA DICTIONARY	- WEARABLE COMPUTING SMARTPHONE ACCELEROMETER DATA
 
 
-Subject				2
+Subject                 2
 		Subject Identification Number
 				1..30
 
-Activity			18
+Activity                18
 		Activity engaged in during which the measurements were recorded
-				Laying				Sitting				Standing				Walking				Walking_Downstairs				Walking_Upstairs
+                        Laying
+                        Sitting
+                        Standing
+                        Walking
+                        Walking_Downstairs
+                        Walking_Upstairs
 
 tBodyAcc.mean...X		10
 		Body acceleration signals mean (X axis)		
-				0.221598244..0.30146102
+                        0.221598244..0.30146102
 
 tBodyAcc.mean...Y		10
 		Body acceleration signals mean (Y axis)
-				-0.040513953..-0.001308288
+                        -0.040513953..-0.001308288
 
 tBodyAcc.mean...Z		10
 		Body acceleration signals mean (Z axis)
-				-0.1525139..-0.075378469
+                        -0.1525139..-0.075378469
 
 tBodyAcc.std...X		10
 		Body acceleration signals standard deviation (X axis)
-				-0.996068635..0.626917071
+                        -0.996068635..0.626917071
 
 tBodyAcc.std...Y		10
 		Body acceleration signals standard deviation (Y axis)
